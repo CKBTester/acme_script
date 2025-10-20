@@ -1,0 +1,26 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Build/output (if any)
+dist/
+build/
+.tmp/
+
+# Certificates (do not commit real certs)
+*.crt
+*.key
+*.pem
